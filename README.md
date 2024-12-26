@@ -20,6 +20,6 @@ This project implements a real time drowsiness detection system using Python, Op
 
 ## Installation and Setup
 1. **Install Required Libraries**
-   Use this website for PyTorch installation: https://pytorch.org/get-started/locally/
+   - Use this website for PyTorch installation: https://pytorch.org/get-started/locally/
    ```bash
    pip install matplotlib numpy opencv-python
